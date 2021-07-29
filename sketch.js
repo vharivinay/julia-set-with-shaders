@@ -12,7 +12,7 @@ function preload() {
 }
 
 function setup() {
-  p5Canvas = createCanvas(1280, 720, WEBGL);
+  p5Canvas = createCanvas(1920, 1080, WEBGL);
   noStroke();
 }
 
