@@ -35,7 +35,7 @@ function draw() {
 
   position += 0.01;
 
-  if (pos > TWO_PI) {
+  if (position > TWO_PI) {
     noLoop();
   }
 }
